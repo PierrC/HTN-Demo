@@ -1,4 +1,4 @@
-# HTN_Demo
+# HTN-Demo
 This is a demo of a Hierarchical task network.
 
 Created with Unity version 2018.2.10 
