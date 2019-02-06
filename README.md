@@ -12,7 +12,7 @@ A,S,D,W: movement
 Space: use trap (2 uses)
 
 
-![alt text](https://github.com/PierrC/HTN_Demo/blob/master/HTNDemoPicture1.png)
+![alt text](https://github.com/PierrC/HTN-Demo/blob/master/HTNDemoPicture1.png)
 
 
 There is one item in each alcove, both agent start in random alcoves and must move from alcove to alcove while avoiding the view of
